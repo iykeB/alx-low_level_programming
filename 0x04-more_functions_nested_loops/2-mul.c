@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- *mul - multiply two numbers
+ * mul - multiply two numbers
  *@a: and
  *@b: numbers to be mutiply
  * return: void
  */
-void int mul(int a, int b)
+int mul(int a, int b)
 {
 	/* mul var */
 	int mul;
