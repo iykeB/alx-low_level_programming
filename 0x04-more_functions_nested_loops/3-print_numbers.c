@@ -6,12 +6,12 @@
  */
 void print_numbers(void)
 {
-	int n = '0';
+	int i;
 
-	while (n < '10')
+	while (i < '10')
 	{
-		_putchar(n);
-		n++
+		_putchar(i);
+		i++
 	}
 	_putchar('\n');
 }
