@@ -2,8 +2,7 @@
 
 /**
  * print_numbers - function that prints numbers
- * New line: to be printed
- * Return: void
+ * followed by a new line
  */
 void print_numbers(void)
 {
