@@ -1,1 +1,1 @@
-This gives an additional tasks to the project(pointers)
+More tasks on arrays and pointers
