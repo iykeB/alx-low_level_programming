@@ -75,5 +75,3 @@ char **strtow(char *str)
 
 	return (matrix);
 }
-Footer
-© 2022 GitHu
